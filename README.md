@@ -34,4 +34,9 @@ POST /clients/:id/projects/ – Create a project for a client
 GET /projects/ – List all projects for the logged-in user
 GET /projects/?client_id=ID – Filter projects by client
 
+Author:-
+Amar
+
+
+
 
